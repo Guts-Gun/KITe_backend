@@ -1,0 +1,30 @@
+[submodule "KITe_brokerManager"]
+	path = KITe_brokerManager
+	url = https://github.com/Guts-Gun/KITe_brokerManager.git
+[submodule "KITe_log"]
+	path = KITe_log
+	url = https://github.com/Guts-Gun/KITe_log.git
+[submodule "KITe_sendMsg"]
+	path = KITe_sendMsg
+	url = https://github.com/Guts-Gun/KITe_sendMsg.git
+[submodule "KITe_sendEmail"]
+	path = KITe_sendEmail
+	url = https://github.com/Guts-Gun/KITe_sendEmail.git
+[submodule "KITe_sendManager"]
+	path = KITe_sendManager
+	url = https://github.com/Guts-Gun/KITe_sendManager.git
+[submodule "KITe_requestMsg"]
+	path = KITe_requestMsg
+	url = https://github.com/Guts-Gun/KITe_requestMsg.git
+[submodule "KITe_requestEmail"]
+	path = KITe_requestEmail
+	url = https://github.com/Guts-Gun/KITe_requestEmail.git
+[submodule "KITe_result"]
+	path = KITe_result
+	url = https://github.com/Guts-Gun/KITe_result.git
+[submodule "KITe_user"]
+	path = KITe_user
+	url = https://github.com/Guts-Gun/KITe_user.git
+[submodule "KITe_scheduler"]
+	path = KITe_scheduler
+	url = https://github.com/Guts-Gun/KITe_scheduler.git
