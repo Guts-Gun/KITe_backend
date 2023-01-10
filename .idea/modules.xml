@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KITe_backend.iml" filepath="$PROJECT_DIR$/.idea/KITe_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_brokerManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_brokerManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_log.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_log.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_requestEmail.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_requestEmail.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_requestMsg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_requestMsg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_result.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_result.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_scheduler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_scheduler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_sendEmail.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_sendEmail.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_sendManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_sendManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_sendMsg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_sendMsg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KITe_user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KITe_user.main.iml" />
+    </modules>
+  </component>
+</project>

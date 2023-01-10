@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/KITe_brokerManager" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_log" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_requestEmail" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_requestMsg" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_result" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_scheduler" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_sendEmail" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_sendManager" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_sendMsg" />
+    <file type="web" url="file://$PROJECT_DIR$/KITe_user" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

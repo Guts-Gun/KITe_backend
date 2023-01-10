@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_brokerManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_requestEmail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_requestMsg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_result" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_scheduler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_sendEmail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_sendManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_sendMsg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KITe_user" vcs="Git" />
+  </component>
+</project>
