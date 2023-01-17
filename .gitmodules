@@ -28,3 +28,6 @@
 [submodule "KITe_scheduler"]
 	path = KITe_scheduler
 	url = https://github.com/Guts-Gun/KITe_scheduler.git
+[submodule "KITe_auth"]
+	path = KITe_auth
+	url = https://github.com/Guts-Gun/KITe_auth.git
