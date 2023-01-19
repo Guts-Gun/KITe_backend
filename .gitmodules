@@ -31,3 +31,6 @@
 [submodule "KITe_auth"]
 	path = KITe_auth
 	url = https://github.com/Guts-Gun/KITe_auth.git
+[submodule "KITe_DB"]
+	path = KITe_DB
+	url = https://github.com/Guts-Gun/KITe_DB.git
