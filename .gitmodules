@@ -34,3 +34,7 @@
 [submodule "KITe_DB"]
 	path = KITe_DB
 	url = https://github.com/Guts-Gun/KITe_DB.git
+[submodule "KITe_brokerDummy"]
+	path = KITe_brokerDummy
+	url = https://github.com/Guts-Gun/KITe_brokerDummy.git
+
