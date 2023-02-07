@@ -16,9 +16,6 @@
 [submodule "KITe_requestMsg"]
 	path = KITe_requestMsg
 	url = https://github.com/Guts-Gun/KITe_requestMsg.git
-[submodule "KITe_requestEmail"]
-	path = KITe_requestEmail
-	url = https://github.com/Guts-Gun/KITe_requestEmail.git
 [submodule "KITe_result"]
 	path = KITe_result
 	url = https://github.com/Guts-Gun/KITe_result.git
@@ -31,10 +28,5 @@
 [submodule "KITe_auth"]
 	path = KITe_auth
 	url = https://github.com/Guts-Gun/KITe_auth.git
-[submodule "KITe_DB"]
-	path = KITe_DB
-	url = https://github.com/Guts-Gun/KITe_DB.git
-[submodule "KITe_brokerDummy"]
-	path = KITe_brokerDummy
-	url = https://github.com/Guts-Gun/KITe_brokerDummy.git
+
 
